@@ -1,3 +1,12 @@
+# Setup
+
+- `yarn install`
+- `yarn start`
+
+# Requirements
+
+I used node v16.14.2, would suggest to use this version for testing
+
 # HubSpot Project
 
 You're in charge of implementing a new inbox view. You're given a set of data that consists of your userId, a list of users that you have communicated with and a list of messages between you and those users. From this data, we need to generate a list of conversations for your user.
